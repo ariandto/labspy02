@@ -9,10 +9,10 @@
 <p align="center">
 </p>
 
-- <b>1).</b> Sebelum ke langkah selanjutnya kita harus pahami dulu alur algoritma dasarnya sebagai berikut:<p>
+<b>1).</b>Sebelum ke langkah selanjutnya kita harus pahami dulu alur algoritma dasarnya sebagai berikut:<p>
 Bahwa ada 3 bilangan yang harus anda input pada program ini
 - if a>b and a>c , artinya jika a lebih besar dari b dan a lebih besar dari c maka bisa dipastikan a adalah yang terbesar
 - if b>a and  b>c , artinya jika b lebih besar dari a dan b lebih besar dari c maka bisa dipastikan b adalah bilangan yang terbesar
 - jika diluar daripada case diatas bisa disimpulkan bilangan c adalah yang terbesar
 
-2. Flowchart Alur Pemrograman:
+<b>2).</b>Flowchart Alur Pemrograman:
