@@ -34,7 +34,8 @@ Bahwa ada 3 bilangan yang harus anda input pada program ini
 </p>
 
 <b>2).</b> <b>Source Code</b>
-```
+
+```python
 while True:
     a=int(input("masukkan angka ke-1=>: \n"))
     b=int(input("masukkan angka ke-2=>: \n"))
